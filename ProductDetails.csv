@@ -1,6 +1,6 @@
-ProductName,ID,Color1,Color2,Color3,Dimensions1,Dimensions2 ,Brand,Material,ProductBelongsTo,Style1 ,Style2
-Blacks Wool Abstract Area Rug by Shobha Woollens,1,Black,,,"72,48","96,60",Shobha Woollens,,Abstract,Contemporary,
-Woodway Six Seater Dining Table with Glass Top in Provincial Teak Finish by Woodsworth,2,Provincial Teak,,,"30,72,35",,Woodsworth,,Dining Chairs,Contemporary,
+ProductName,ID,Color1,Color2,Color3,Dimensions1,Dimensions2 ,Brand,Material,ProductBelongsTo,Style1,Style2
+Blacks Wool Abstract Area Rug by Shobha Woollens,1,Black,,,"72,48","96,60",Shobha Woollens,Wool,Abstract,Contemporary,
+Woodway Six Seater Dining Table with Glass Top in Provincial Teak Finish by Woodsworth,2,Provincial Teak,,,"30,72,35",,Woodsworth,Sheesham Wood,Dining Chairs,Contemporary,
 Oritz LHS Three Seater Sofa with Lounger and Cushions in Burnt Sienna Colour by CasaCraft,3,Burnt Sienna,,,"33,109,104",,CasaCraft,Fabric,Sofas & Sectionals,Contemporary,
 Sperry Coffee Table in Natural Finish by Bohemiana,4,Natural,,,"18,32,32",,Bohemiana,Acacia Wood,Coffee Tables,Contemporary,
 Afydecor Brown Ply Wood Free-form Silhouette Wall Shelf,5,Brown,,,"60,7,29",,Afydecor,Ply Wood ,Wall Shelfs,Contemporary,
