@@ -1,10 +1,10 @@
 DECOR,Candles & Tea Lights,
 DECOR,Ceiling Lights,Flush Mounted
 DECOR,Ceiling Lights,Recessed Lights
-DECOR,Chandeliers,Colonial
-DECOR,Chandeliers,Modern
-DECOR,Chandeliers,Eclectic
-DECOR,Chandeliers,Indian Ethnic
+DECOR,Chandeliers,Colonial Chandeliers
+DECOR,Chandeliers,Modern Chandeliers
+DECOR,Chandeliers,Eclectic Chandeliers
+DECOR,Chandeliers,Indian Ethnic Chandeliers
 DECOR,Clocks,Wall Clocks
 DECOR,Clocks,Retro Clocks
 DECOR,Clocks,Cuckoo Clocks
@@ -20,15 +20,15 @@ DECOR,Ethnic Art,
 DECOR,Festive Lights,String Lights
 DECOR,Festive Lights,Electric Tea Lights
 DECOR,Filament Lamps,
-DECOR,Floor Lamps,Contemporary
-DECOR,Floor Lamps,Colonial
-DECOR,Floor Lamps,Eclectic
-DECOR,Floor Lamps,Indian Ethnic
+DECOR,Floor Lamps,Contemporary Floor Lamps
+DECOR,Floor Lamps,Colonial Floor Lamps
+DECOR,Floor Lamps,Eclectic Floor Lamps
+DECOR,Floor Lamps,Indian Ethnic Floor Lamps
 DECOR,Garden Decor,
-DECOR,Hanging Lights,Eclectic
-DECOR,Hanging Lights,Modern
-DECOR,Hanging Lights,Indian Ethnic
-DECOR,Hanging Lights,Colonial
+DECOR,Hanging Lights,Eclectic Hanging Lights
+DECOR,Hanging Lights,Modern Hanging Lights
+DECOR,Hanging Lights,Indian Ethnic Hanging Lights
+DECOR,Hanging Lights,Colonial Hanging Lights
 DECOR,Home Fragnances,
 DECOR,Key Holders,
 DECOR,Lamp Bases,
@@ -37,10 +37,10 @@ DECOR,Lanterns,Paper
 DECOR,Lanterns,Sky
 DECOR,Light Bulbs,CFL Bulbs
 DECOR,Light Bulbs,LED Bulbs
-DECOR,Mirrors,Eclectic
-DECOR,Mirrors,Colonial
-DECOR,Mirrors,Contemporary
-DECOR,Mirrors,Indian Ethnic
+DECOR,Mirrors,Eclectic Mirrors
+DECOR,Mirrors,Colonial Mirrors
+DECOR,Mirrors,Contemporary Mirrors
+DECOR,Mirrors,Indian Ethnic Mirrors
 DECOR,Outdoor,Gate & Post Lights
 DECOR,Outdoor,Wall & Ceiling Lights
 DECOR,Outdoor,Ambience Lights
@@ -62,10 +62,10 @@ DECOR,Spiritual,Feng Shui
 DECOR,Spiritual,Festive Decor
 DECOR,Spiritual,Chowkies
 DECOR,Study Lamps,
-DECOR,Table Lamps,Contemporary
-DECOR,Table Lamps,Colonial
-DECOR,Table Lamps,Eclectic
-DECOR,Table Lamps,Indian Ethnic
+DECOR,Table Lamps,Contemporary Table Lamps
+DECOR,Table Lamps,Colonial Table Lamps
+DECOR,Table Lamps,Eclectic Table Lamps
+DECOR,Table Lamps,Indian Ethnic Table Lamps
 DECOR,Table Lamps,Kids Table Lamps
 DECOR,Tripod Lamps,Floor Tripods
 DECOR,Tripod Lamps,Table Tripods
@@ -95,6 +95,6 @@ DECOR,Wall Lights,Wall Mounted
 DECOR,Wall Lights,Picture Lights
 DECOR,Wall Lights,Bath Lights
 DECOR,Wall Lights,Night Lights
-DECOR,Wall Shelves,Contemporary
-DECOR,Wall Shelves,Eclectic
-DECOR,Wall Shelves,Colonial
+DECOR,Wall Shelves,Contemporary Wall Shelves
+DECOR,Wall Shelves,Eclectic Wall Shelves
+DECOR,Wall Shelves,Colonial Wall Shelves
